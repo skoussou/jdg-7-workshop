@@ -4,7 +4,7 @@ This is a workshop for JBoss JDG 7. It provides an introduction into the core co
 to address various JDG Topology configurations (e.g. clustered, replicated, distributed, etc.). 
 
 ## Workshop Documentation
-The documentation of the workshop, including the description of the labs and exercises can be found [here](docs/jboss-jdg-7-workshop.adoc)
+The documentation of the workshop, including the description of the labs and exercises can be found [here](docs/jdg-7-workshop.adoc)
 
 ## Interesting links:
 * [The Infinispan project](http://www.infinispan.org)
