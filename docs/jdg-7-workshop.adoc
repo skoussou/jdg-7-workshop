@@ -1,0 +1,7 @@
+# JBoss JDG 7.0 Workshop
+
+
+Infinispan:: _Infinispan is a distributed in-memory key/value data store and can be used both as an embedded Java library and as a language-independent service accessed remotely over a variety of protocols (HotRod, REST, Memcached and WebSockets)_ 
+
+
+== JDG API
